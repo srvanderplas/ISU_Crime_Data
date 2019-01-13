@@ -10,6 +10,7 @@ new_data <- read_html("http://www.police.iastate.edu/content/daily-crime-log") %
 
 if (file.exists("isu_crime_data.csv")) {
   data <- read_csv("isu_crime_data.csv") %>%
+    mutate_if(.predicate = is.character, funs(str_replace_na(""))) %>%
     bind_rows(new_data) %>%
     group_by_at(1:7) %>%
     summarize(scraped = min(scraped))
@@ -18,3 +19,5 @@ if (file.exists("isu_crime_data.csv")) {
   write_csv(new_data, "isu_crime_data.csv", append = F)
 }
 
+system("git commit -a -m 'Automatic Update'")
+system("git push")
