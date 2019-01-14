@@ -1,7 +1,15 @@
 #!/usr/bin/Rscript
 
+library(here)
 library(rvest)
 library(tidyverse)
+
+# Get wd of script
+if (Sys.info()[['nodename']] == 'bigfoot') {
+  setwd("/home/srvander/Projects/Misc/ISU_Crime_Data")
+} else {
+  setwd(here::here())
+}
 
 new_data <- read_html("http://www.police.iastate.edu/content/daily-crime-log") %>%
   html_node("table") %>%
