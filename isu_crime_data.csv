@@ -1,6 +1,5 @@
 Case Number,Classification,Date/Time Reported,Earliest Occurrence,Latest Occurrence,General Location,Disposition,scraped
 ,,,,,,,2019-01-11
-18-001382,Theft,11/16/18 0825,,,Memorial Union,Open,2019-01-15
 18-001385,Traffic Violation,11/16/18 2220,11/16/18 2220,11/16/18 2220,Lot 112B,Arrest,2019-01-15
 18-001386,OWI,11/17/18 0035,11/17/18 0035,11/17/18 0035,South Dakota Avenue and Steinbeck Street,Arrest,2019-01-15
 18-001388,Driving Violation,11/19/18 0016,11/19/18 0016,11/19/18 0016,Lincoln Way and Marshall Avenue,Cited,2019-01-15
@@ -106,7 +105,8 @@ Case Number,Classification,Date/Time Reported,Earliest Occurrence,Latest Occurre
 19-000007,Vandalism,01/09/19 1811,01/09/19 1000,01/09/19 1811,East Campus Parking Deck,Open,2019-01-15
 19-000009,Harassment,01/10/19 1508,,01/10/19 0000,Atanasoff Hall,Open,2019-01-15
 19-000010,Driving Violation,01/10/19 2054,01/10/19 2054,01/10/19 2054,Dickinson Avenue and Twain Circle,Cited,2019-01-15
-19-000013,Hit and Run,01/12/19 1309,,,Lot B2,,2019-01-15
-19-000015,Hit and Run,01/12/19 1947,,,1405 Coconino Road,Open,2019-01-15
+19-000013,Hit and Run,01/12/19 1309,01/12/19 1200,01/12/19 1309,Lot B2,Open,2019-01-15
+19-000015,Hit and Run,01/12/19 1947,,01/12/19 1947,1405 Coconino Road,Open,2019-01-15
 19-000016,Hit and Run,01/12/19 2024,01/11/19 1900,01/12/19 1757,4800 Mortensen Road,Open,2019-01-15
 19-000017,Public Intoxication,01/13/19 0117,01/13/19 0117,01/13/19 0117,Lincoln Way and Wilmoth Avenue,Arrest,2019-01-15
+19-000020,Drug Violation,01/14/19 1816,01/14/19 1816,01/14/19 1816,Lot 61B,Arrest,2019-01-15
