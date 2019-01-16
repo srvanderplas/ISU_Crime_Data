@@ -98,13 +98,18 @@ Case Number,Classification,Date/Time Reported,Earliest Occurrence,Latest Occurre
 18-001528,Driving Violation,12/28/18 1724,12/28/18 1724,12/28/18 1724,Mortensen Road and Seagrave Boulevard,Arrest,2019-01-16
 18-001529,Harassment,12/31/18 1006,09/01/18 0000,12/31/18 0000,Online,Open,2019-01-16
 19-000001,Driving Violation,01/01/19 0029,01/01/19 0029,01/01/19 0029,Lincoln Way and Stanton Avenue,Arrest,2019-01-16
-19-000002,Theft,01/05/19 2212,01/05/19 1800,01/05/19 1800,Hilton Colesium,Open,2019-01-16
-19-000004,Harassment,01/08/19 1328,,,Online,Open,2019-01-16
-19-000007,Vandalism,01/09/19 1811,01/09/19 1000,01/09/19 1811,East Campus Parking Deck,Open,2019-01-16
-19-000009,Harassment,01/10/19 1508,,01/10/19 0000,Atanasoff Hall,Open,2019-01-16
+19-000002,Theft,01/05/19 2212,01/05/19 1800,01/05/19 1800,Hilton Colesium,Report Initiated,2019-01-16
+19-000004,Harassment,01/08/19 1328,,,Online,Report Initiated,2019-01-16
+19-000007,Vandalism,01/09/19 1811,01/09/19 1000,01/09/19 1811,East Campus Parking Deck,Report Initiated,2019-01-16
+19-000009,Harassment,01/10/19 1508,,01/10/19 0000,Atanasoff Hall,Report Initiated,2019-01-16
 19-000010,Driving Violation,01/10/19 2054,01/10/19 2054,01/10/19 2054,Dickinson Avenue and Twain Circle,Cited,2019-01-16
-19-000013,Hit and Run,01/12/19 1309,01/12/19 1200,01/12/19 1309,Lot B2,Open,2019-01-16
-19-000015,Hit and Run,01/12/19 1947,,01/12/19 1947,1405 Coconino Road,Open,2019-01-16
-19-000016,Hit and Run,01/12/19 2024,01/11/19 1900,01/12/19 1757,4800 Mortensen Road,Open,2019-01-16
+19-000013,Hit and Run,01/12/19 1309,01/12/19 1200,01/12/19 1309,Lot B2,Report Initiated,2019-01-16
+19-000015,Hit and Run,01/12/19 1947,,01/12/19 1947,1405 Coconino Road,Report Initiated,2019-01-16
+19-000016,Hit and Run,01/12/19 2024,01/11/19 1900,01/12/19 1757,4800 Mortensen Road,Report Initiated,2019-01-16
 19-000017,Public Intoxication,01/13/19 0117,01/13/19 0117,01/13/19 0117,Lincoln Way and Wilmoth Avenue,Arrest,2019-01-16
 19-000020,Drug Violation,01/14/19 1816,01/14/19 1816,01/14/19 1816,Lot 61B,Arrest,2019-01-16
+19-000024,Theft,01/15/19 0958,12/17/18 0000,01/15/19 0000,Armory Building,Report Initiated,2019-01-16
+19-000025,Driving Violation,01/15/19 1619,01/15/19 1619,01/15/19 1619,Lincoln Way and North Dakota Avenue,Cited,2019-01-16
+19-000026,Theft,01/15/19 1649,01/15/19 1530,01/15/19 1630,University Village Laundry Mat,Report Initiated,2019-01-16
+19-000027,Driving Violation,01/15/19 2036,01/15/19 2036,01/15/19 2036,University Boulevard and US Hiway 30 Ramp,Cited,2019-01-16
+19-000028,Drug Violation,01/15/19 2317,01/15/19 2317,01/15/19 2317,Larch Hall,Arrest,2019-01-16
