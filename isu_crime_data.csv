@@ -1,6 +1,5 @@
 Case Number,Classification,Date/Time Reported,Earliest Occurrence,Latest Occurrence,General Location,Disposition,scraped
 ,,,,,,,2019-01-11
-18-001505,OWI,12/15/18 0252,12/15/18 0252,12/15/18 0252,Lincolnway and Lynn Avenue,Arrest,2019-02-13
 18-001508,OWI,12/16/18 0208,12/16/18 0208,12/16/18 0208,Lincoln Way and State Avenue,Arrest,2019-02-13
 18-001509,Traffic Violation/Drug Violation,12/17/18 0115,12/17/18 0115,12/17/18 0115,Lincoln Way and Welch Avenue,Arrest,2019-02-13
 18-001510,Hit and Run,12/17/18 1607,12/15/18 0000,12/15/18 0000,Lot D3,Open,2019-02-13
@@ -48,7 +47,7 @@ Case Number,Classification,Date/Time Reported,Earliest Occurrence,Latest Occurre
 19-000051,Drug Violation,01/21/19 1611,01/21/19 1611,01/21/19 1611,42 Frederiksen Court,Arrest,2019-02-13
 19-000052,Theft,01/22/19 0117,01/22/19 0005,01/22/19 0105,University Village Laundry Mat,Report Initiated,2019-02-13
 19-000055,Theft,01/22/19 1603,01/22/19 1300,01/22/19 1400,Atanasoff Hall,Recovered,2019-02-13
-19-000056,Theft,01/23/19 1125,,,Troxel Hall,Report Initiated,2019-02-13
+19-000056,Theft,01/23/19 1125,,,Troxel Hall,Recovered,2019-02-13
 19-000058,Fraud,01/23/19 1459,01/23/19 0945,01/23/19 1459,Wilson Hall,Report Initiated,2019-02-13
 19-000061,Theft,01/13/19 1758,,,Ames Intermodal Facility,Report Initiated,2019-02-13
 19-000063,Drug Violation/Alcohol Violation,01/23/19 2255,01/23/19 2255,01/23/19 2255,Welch Hall,Arrest,2019-02-13
@@ -64,7 +63,7 @@ Case Number,Classification,Date/Time Reported,Earliest Occurrence,Latest Occurre
 19-000080,Harassment,01/30/19 0838,01/29/19 1703,01/29/19 1947,Student Services Building,Report Initiated,2019-02-13
 19-000081,Theft,01/30/19 1244,01/11/19 0000,01/12/19 0000,University Village Laundry Mat,Report Initiated,2019-02-13
 19-000083,Harassment,01/30/19 1945,01/23/19 0000,01/30/19 0000,Wallace Hall,Report Initiated,2019-02-13
-19-000084,Harassment,01/30/19 2132,01/30/19 2132,01/30/19 2132,53 Frederiksen Court,Report Initiated,2019-02-13
+19-000084,Harassment,01/30/19 2132,01/30/19 2132,01/30/19 2132,53 Frederiksen Court,Arrest,2019-02-13
 19-000086,Drug Violation,01/31/19 0042,01/31/19 0042,01/31/19 0042,Hunt Street and South Sheldon Street,Arrest,2019-02-13
 19-000088,Theft,01/31/19 1656,01/30/19 1436,01/30/19 1436,Memorial Union,Report Initiated,2019-02-13
 19-000089,Fraud,01/31/19 1611,01/30/19 0000,01/30/19 0000,Buchanan Hall,Report Initiated,2019-02-13
@@ -97,5 +96,9 @@ Case Number,Classification,Date/Time Reported,Earliest Occurrence,Latest Occurre
 19-000141,Theft,02/09/19 1624,01/14/19 0000,01/31/19 0000,University Bookstore,Report Initiated,2019-02-13
 19-000142,OWI,02/10/19 0124,02/10/19 0124,02/10/19 0124,Ash Aenue and Knapp Street,Arrest,2019-02-13
 19-000150,Theft,02/11/19 0915,02/09/19 0000,02/09/19 0000,University Village Laundry Mat,Report Initiated,2019-02-13
+19-000154,Theft,02/11/19 2117,02/11/19 1820,02/11/19 2040,Lied Recreation Center,Recovered,2019-02-13
+19-000157,Harassment,02/12/19 1429,,,302 Ash Avenue,Report Initiated,2019-02-13
+19-000159,Driving Violation,02/13/19 0032,02/13/19 0032,02/13/19 0032,Hayward Avenue and Lincoln Way,Arrest,2019-02-13
+19-000160,Outstanding Warrant,02/13/19 0059,02/13/19 0059,02/13/19 0059,Hayward Avenue and Lincoln Way,Arrest,2019-02-13
 19-001,Harassment,01/22/19 0000,01/18/19 0000,01/18/19 0000,Memorial Union,Assigned - Other,2019-02-13
 19-002,Harassment,02/01/19 0000,01/30/19 0000,02/01/19 0000,Various Locations,Assigned - Other,2019-02-13
