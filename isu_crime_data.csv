@@ -1,6 +1,5 @@
 Case Number,Classification,Date/Time Reported,Earliest Occurrence,Latest Occurrence,General Location,Disposition,scraped
 ,,,,,,,2019-01-11
-18-001516,Driving Violation,12/21/18 0214,12/21/18 0214,12/21/18 0214,Beach Road and Lincoln Way,Arrest,2019-02-19
 18-001518,Harassment,12/22/18 1127,,12/21/18 0630,General Services Building,Open,2019-02-19
 18-001519,Driving Violation,12/23/18 1738,12/23/18 1738,12/23/18 1738,Lincoln Way and North Dakota Avenue,Cited,2019-02-19
 18-001520,Driving Violation,12/23/18 2155,12/23/18 2155,12/23/18 2155,Hayward Avenue and Lincoln Way,Cited,2019-02-19
@@ -89,7 +88,7 @@ Case Number,Classification,Date/Time Reported,Earliest Occurrence,Latest Occurre
 19-000133,Hit and Run,02/08/19 1711,02/08/19 1700,02/08/19 1700,Lot 62,Report Initiated,2019-02-19
 19-000134,Alcohol Violation,02/08/19 2246,02/08/19 2246,02/08/19 2246,Gable Lane and Gray Avenue,Arrest,2019-02-19
 19-000141,Theft,02/09/19 1624,01/14/19 0000,01/31/19 0000,University Bookstore,Report Initiated,2019-02-19
-19-000142,OWI,02/10/19 0124,02/10/19 0124,02/10/19 0124,Ash Aenue and Knapp Street,Arrest,2019-02-19
+19-000142,OWI,02/10/19 0124,02/10/19 0124,02/10/19 0124,Ash Avenue and Knapp Street,Arrest,2019-02-19
 19-000150,Theft,02/11/19 0915,02/09/19 0000,02/09/19 0000,University Village Laundry Mat,Report Initiated,2019-02-19
 19-000154,Theft,02/11/19 2117,02/11/19 1820,02/11/19 2040,Lied Recreation Center,Recovered,2019-02-19
 19-000157,Harassment,02/12/19 1429,,,302 Ash Avenue,Report Initiated,2019-02-19
@@ -100,5 +99,7 @@ Case Number,Classification,Date/Time Reported,Earliest Occurrence,Latest Occurre
 19-000168,OWI,02/15/19 0219,02/15/19 0219,02/15/19 0219,Bruner Drive and Long Road,Arrest,2019-02-19
 19-000178,Alcohol Violation,02/17/19 2106,02/17/19 2106,02/17/19 2106,Buchanan Hall,Cited,2019-02-19
 19-000179,Drug Violation,02/18/19 0011,02/18/19 0011,02/18/19 0011,Buchanan Hall,Arrest,2019-02-19
+19-000181,Harassment,02/18/19 1515,,02/18/19 1515,Sukup Hall,Report Initiated,2019-02-19
+19-000182,Harassment,02/18/19 2342,,02/18/19 2342,Wilson Hall,Report Initiated,2019-02-19
 19-001,Harassment,01/22/19 0000,01/18/19 0000,01/18/19 0000,Memorial Union,Assigned - Other,2019-02-19
 19-002,Harassment,02/01/19 0000,01/30/19 0000,02/01/19 0000,Various Locations,Assigned - Other,2019-02-19
