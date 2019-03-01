@@ -1,6 +1,5 @@
 Case Number,Classification,Date/Time Reported,Earliest Occurrence,Latest Occurrence,General Location,Disposition,scraped
 ,,,,,,,2019-01-11
-18-001529,Harassment,12/31/18 1006,09/01/18 0000,12/31/18 0000,Online,Open,2019-03-01
 19-000001,Driving Violation,01/01/19 0029,01/01/19 0029,01/01/19 0029,Lincoln Way and Stanton Avenue,Arrest,2019-03-01
 19-000002,Theft,01/05/19 2212,01/05/19 1800,01/05/19 1800,Hilton Colesium,Report Initiated,2019-03-01
 19-000004,Harassment,01/08/19 1328,,,Online,Report Initiated,2019-03-01
@@ -105,7 +104,14 @@ Case Number,Classification,Date/Time Reported,Earliest Occurrence,Latest Occurre
 19-000207,Theft,02/25/19 0110,02/24/19 2220,02/25/19 0050,University Village Laundry Mat,Report Initiated,2019-03-01
 19-000212,Harassment,02/25/19 2144,,02/25/19 2144,Geoffroy Hall,Report Initiated,2019-03-01
 19-000213,Drug Violation,02/26/19 0114,02/26/19 0114,02/26/19 0114,Hayward Avenue and Knapp Street,Arrest,2019-03-01
-19-000215,Theft,02/26/19 0750,02/25/19 1540,02/26/19 0750,Lied Recreation Center,Report Initiated,2019-03-01
+19-000215,Theft,02/26/19 0750,02/25/19 1540,02/26/19 0750,Lied Recreation Center,Recovered,2019-03-01
+19-000225,Drug Violation,02/27/19 1456,02/27/19 1456,02/27/19 1456,Birch Hall,Arrest,2019-03-01
+19-000226,Harassment,02/27/19 1510,,,Armory Building,Report Initiated,2019-03-01
+19-000227,Driving Violation,02/27/19 1841,02/27/19 1841,02/27/19 1841,Colorado Avenue and Lincoln Way,Arrest,2019-03-01
+19-000228,Hit and Run,02/28/19 1718,02/28/19 1718,02/28/19 1718,2400 Block Pammel Drive,Report Initiated,2019-03-01
+19-000229,Hit and Run,02/28/19 1919,,02/28/19 1919,Memorial Union Parking Ramp,Report Initiated,2019-03-01
+19-000230,Alcohol Violation,03/01/19 0112,03/01/19 0112,03/01/19 0112,200 Block Stanton Avenue,Arrest,2019-03-01
+19-000231,Alcohol Violation,03/01/19 0212,03/01/19 0212,03/01/19 0212,Hayward Avenue and Lincoln Way,Arrest,2019-03-01
 19-001,Harassment,01/22/19 0000,01/18/19 0000,01/18/19 0000,Memorial Union,Assigned - Other,2019-03-01
 19-002,Harassment,02/01/19 0000,01/30/19 0000,02/01/19 0000,Various Locations,Assigned - Other,2019-03-01
 19-003,Stalking,02/25/19 0000,,02/25/19 0000,Martin Hall,Assigned - Other,2019-03-01
