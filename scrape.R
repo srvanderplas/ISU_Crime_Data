@@ -16,6 +16,7 @@ new_log <- read_html("https://www.police.iastate.edu/crime-log/") %>%
   html_nodes("a.log") %>%
   html_attr("href")
 
+download.file(new_log, destfile = paste0(lubridate::today(), ".pdf"), mode = 'wb')
 tabs <- extract_tables(new_log)
 
 nm <- c("Case Number", "Classification", "Date Reported", "Time Reported", "Earliest Occurrence Date", "Earliest Occurrence Time", "Latest Occurrence Date", "Latest Occurrence Time", "General Location", "Disposition")
