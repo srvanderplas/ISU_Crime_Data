@@ -320,23 +320,46 @@ Case Number,Classification,Date/Time Reported,Earliest Occurrence,Latest Occurre
 19-000283,OWI,03/10/19 0342,03/10/19 0342,03/10/19 0342,129 S. Duff Avenue,Arrest,2019-03-19
 19-000283,OWI,3/10/2019 0342,3/10/2019 0342,3/10/2019 0342,129 S. Duff Avenue,Arrest,2019-03-21
 19-000285,Burglary,03/11/19 1843,03/11/19 1015,03/11/19 1430,Hamilton Hall,Arrest,2019-03-19
+19-000285,Burglary,3/11/2019 1843,3/11/2019 1015,3/11/2019 1430,Hamilton Hall,Arrest,2019-03-25
 19-000286,Drug Violation,03/11/19 2315,03/11/19 2315,03/11/19 2315,Lyon Hall,Arrest,2019-03-19
+19-000286,Drug Violation,3/11/2019 2315,3/11/2019 2315,3/11/2019 2315,Lyon Hall,Arrest,2019-03-25
 19-000289,Theft,03/12/19 0830,03/07/19 1115,03/07/19 1130,Forker Building,Report Initiated,2019-03-19
+19-000289,Theft,3/12/2019 0830,3/7/2019 1115,3/7/2019 1130,Forker Building,Report Initiated,2019-03-25
 19-000290,Hit and Run,03/12/19 1431,,03/12/19 1431,Lot 23,Report Initiated,2019-03-19
+19-000290,Hit and Run,3/12/2019 1431, ,3/12/2019 1431,Lot 23,Report Initiated,2019-03-25
 19-000292,Disorderly Conduct,03/12/19 1811,03/12/19 1811,03/12/19 1811,1800 Christensen Drive,Report Initiated,2019-03-19
+19-000292,Disorderly Conduct,3/12/2019 1811,3/12/2019 1811,3/12/2019 1811,1800 Christensen Drive,Report Initiated,2019-03-25
 19-000293,Theft,03/13/19 1049,,,Palmer Building,Report Initiated,2019-03-19
+19-000293,Theft,3/13/2019 1049, , ,Palmer Building,Report Initiated,2019-03-25
 19-000295,Driving Violation,03/14/19 0022,03/14/19 0022,03/14/19 0022,Knapp Street and Stanton Avenue,Cited,2019-03-19
+19-000295,Driving Violation,3/14/2019 0022,3/14/2019 0022,3/14/2019 0022,Knapp Street and Stanton Avenue,Cited,2019-03-25
 19-000296,Driving Violation,03/14/19 0153,03/14/19 0153,03/14/19 0153,,Arrest,2019-03-19
+19-000296,Driving Violation,3/14/2019 0153,3/14/2019 0153,3/14/2019 0153,,Arrest,2019-03-25
 19-000297,Harassment,03/14/19 0821,03/08/19 0000,03/14/19 0000,Online,Report Initiated,2019-03-19
+19-000297,Harassment,3/14/2019 0821,3/8/2019 ,3/14/2019 ,Online,Report Initiated,2019-03-25
 19-000299,Harassment,03/14/19 1337,,03/14/19 0000,Town Engineering Building,Report Initiated,2019-03-19
+19-000299,Harassment,3/14/2019 1337, ,3/14/2019 ,Town Engineering Building,Report Initiated,2019-03-25
 19-000300,Theft,03/14/19 1953,02/25/19 0000,03/14/19 0000,Legacy Tower,Report Initiated,2019-03-19
+19-000300,Theft,3/14/2019 1953,2/25/2019 ,3/14/2019 ,Legacy Tower,Report Initiated,2019-03-25
 19-000301,Drug Violation,03/14/19 2243,03/14/19 2243,03/14/19 2243,Hawthorn Court Drive and Stange Road,Arrest,2019-03-19
+19-000301,Drug Violation,3/14/2019 2243,3/14/2019 2243,3/14/2019 2243,Hawthorn Court Drive and Stange Road,Arrest,2019-03-25
 19-000302,Disorderly Conduct,03/15/19 1027,03/15/19 1027,03/15/19 1027,Union Drive Community Center,Report Initiated,2019-03-19
+19-000302,Disorderly Conduct,3/15/2019 1027,3/15/2019 1027,3/15/2019 1027,Union Drive Community Center,Report Initiated,2019-03-25
 19-000304,Theft,03/15/19 1400,03/15/19 0130,03/15/19 1315,Buchanan Hall,Report Initiated,2019-03-19
+19-000304,Theft,3/15/2019 1400,3/15/2019 0130,3/15/2019 1315,Buchanan Hall,Report Initiated,2019-03-25
 19-000305,Sexual Assault,03/15/19 1322,03/09/19 0000,03/10/19 0000,Frederiksen Court,Report Initiated,2019-03-19
+19-000305,Sexual Assault,3/15/2019 1322,3/9/2019 ,3/10/2019 ,Frederiksen Court,Report Initiated,2019-03-25
+19-000306,OWI,3/16/2014 0019,3/16/2014 0019,3/16/2014 0019,Morrill Road and Union Drive,Arrest,2019-03-25
 19-000307,Public Intoxication,03/17/19 0004,03/17/19 0004,03/17/19 0004,100 Welch Avenue,Arrest,2019-03-19
 19-000309,Public Intoxication,03/17/19 0004,03/17/19 0004,03/17/19 0004,100 Welch Avenue,Arrest,2019-03-19
+19-000309,Public Intoxication,3/17/2019 0004,3/17/2019 0004,3/17/2019 0004,100 Welch Avenue,Arrest,2019-03-25
+19-000312,Drug Violation/Alcohol Violation,3/12/2019 2030,3/12/2019 2030,3/12/2019 2030,3515 Lincolnway,Arrest,2019-03-25
+19-000313,Theft,3/22/2019 1329,3/21/2010 1700,3/22/2019 1030,Mackay Hall,Report Initiated,2019-03-25
+19-000315,Sexual Assault,3/23/2018 0008,3/23/2018 ,3/23/2018 2300,Frederiksen Court,Report Initiated,2019-03-25
+19-000317,Alcohol Violation,3/23/2019 2241,3/23/2019 2241,3/23/2019 2241,Helser Hall,Cited,2019-03-25
+19-000319,Drug Violation,3/24/2019 0011,3/24/2019 0011,3/24/2019 0011,3417 Lincoln Way,Arrest,2019-03-25
 19-0004,Sexual Assault,03/12/19 0000,03/09/19 0000,03/09/19 0000,Frederiksen Court,Assigned - Other,2019-03-19
+19-0004,Sexual Assault,3/12/2019 ,3/9/2019 ,3/9/2019 ,Frederiksen Court,Assigned - Other,2019-03-25
 19-001,Harassment,01/22/19 0000,01/18/19 0000,01/18/19 0000,Memorial Union,Assigned - Other,2019-03-19
 19-001,Harassment,1/22/2019,1/18/2019,1/18/2019,Memorial Union,Assigned - Other,2019-03-21
 19-001,Harassment,1/22/2019 ,1/18/2019 ,1/18/2019 ,Memorial Union,Assigned - Other,2019-03-25
