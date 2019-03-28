@@ -2,26 +2,21 @@ Case Number,Classification,Date/Time Reported,Earliest Occurrence,Latest Occurre
 19-000001,Driving Violation,1/1/2019 0029,1/1/2019 0029,1/1/2019 0029,Lincoln Way and Stanton Avenue,Arrest,2019-03-21
 19-000002,Theft,1/5/2019 2212,1/5/2019 1800,1/5/2019 1800,Hilton Colesium,Report Initiated,2019-03-21
 19-000004,Harassment,1/8/2019 1328,,,Online,Report Initiated,2019-03-21
-19-000004,Harassment,1/8/2019 1328, , ,Online,Report Initiated,2019-03-28
 19-000007,Vandalism,1/9/2019 1811,1/9/2019 1000,1/9/2019 1811,East Campus Parking Deck,Report Initiated,2019-03-21
 19-000009,Harassment,1/10/2019 1508,,1/10/2019,Atanasoff Hall,Report Initiated,2019-03-21
-19-000009,Harassment,1/10/2019 1508, ,1/10/2019 ,Atanasoff Hall,Report Initiated,2019-03-28
 19-000010,Driving Violation,1/10/2019 2054,1/10/2019 2054,1/10/2019 2054,Dickinson Avenue and Twain Circle,Cited,2019-03-21
 19-000013,Hit and Run,1/12/2019 1309,1/12/2019 1200,1/12/2019 1309,Lot B2,Report Initiated,2019-03-21
 19-000015,Hit and Run,1/12/2019 1947,,1/12/2019 1947,1405 Coconino Road,Report Initiated,2019-03-21
-19-000015,Hit and Run,1/12/2019 1947, ,1/12/2019 1947,1405 Coconino Road,Report Initiated,2019-03-28
 19-000016,Hit and Run,1/12/2019 2024,1/11/2019 1900,1/12/2019 1757,4800 Mortensen Road,Report Initiated,2019-03-21
 19-000017,Public Intoxication,1/13/2019 0117,1/13/2019 0117,1/13/2019 0117,Lincoln Way and Wilmoth Avenue,Arrest,2019-03-21
 19-000020,Drug Violation,1/14/2019 1816,1/14/2019 1816,1/14/2019 1816,Lot 61B,Arrest,2019-03-21
 19-000024,Theft,1/15/2019 0958,12/17/2018,1/15/2019,Armory Building,Report Initiated,2019-03-21
-19-000024,Theft,1/15/2019 0958,12/17/2018 ,1/15/2019 ,Armory Building,Report Initiated,2019-03-28
 19-000025,Driving Violation,1/15/2019 1619,1/15/2019 1619,1/15/2019 1619,Lincoln Way and North Dakota Avenue,Cited,2019-03-21
 19-000026,Theft,1/15/2019 1649,1/15/2019 1530,1/15/2019 1630,University Village Laundry Mat,Report Initiated,2019-03-21
 19-000027,Driving Violation,1/15/2019 2036,1/15/2019 2036,1/15/2019 2036,University Boulevard and US Hiway 30 Ramp,Cited,2019-03-21
 19-000028,Drug Violation,1/15/2019 2317,1/15/2019 2317,1/15/2019 2317,Larch Hall,Arrest,2019-03-21
 19-000031,Harassment,1/16/2019 1150,1/15/2019 1150,1/15/2019 1150,Mackay Hall,Report Initiated,2019-03-21
 19-000034,Harassment,1/16/2019 1809,,1/16/2019 1809,Online,Report Initiated,2019-03-21
-19-000034,Harassment,1/16/2019 1809, ,1/16/2019 1809,Online,Report Initiated,2019-03-28
 19-000035,Theft,1/16/2019 2013,1/15/2019 1650,1/15/2019 1745,University Village Laundry Mat,Report Initiated,2019-03-21
 19-000036,OWI,1/16/2019 2250,1/16/2019 2250,1/16/2019 2250,Hayward Avenue and Mortensen Road,Arrest,2019-03-21
 19-000037,Drug Violation,1/17/2019 2305,1/17/2019 2305,1/17/2019 2305,Lot 61B,Arrest,2019-03-21
@@ -36,7 +31,6 @@ Case Number,Classification,Date/Time Reported,Earliest Occurrence,Latest Occurre
 19-000044,Public Intoxication,1/20/2019 0118,1/20/2019 0118,1/20/2019 0118,Linden Hall,Arrest,2019-03-21
 19-000045,Criminal Mischief,01/20/19 0250,,01/20/19 0250,Friley Hall,Report Initiated,2019-03-19
 19-000045,Criminal Mischief,1/20/2019 0250,,1/20/2019 0250,Friley Hall,Report Initiated,2019-03-21
-19-000045,Criminal Mischief,1/20/2019 0250, ,1/20/2019 0250,Friley Hall,Report Initiated,2019-03-28
 19-000046,Criminal Mischief,01/20/19 1337,01/18/19 1900,01/19/19 1900,Lot 63,Report Initiated,2019-03-19
 19-000046,Criminal Mischief,1/20/2019 1337,1/18/2019 1900,1/19/2019 1900,Lot 63,Report Initiated,2019-03-21
 19-000048,Public Intoxication,01/20/19 2225,01/20/19 2225,01/20/19 2225,Lincoln Way and Morrill Road,Arrest,2019-03-19
@@ -49,11 +43,9 @@ Case Number,Classification,Date/Time Reported,Earliest Occurrence,Latest Occurre
 19-000055,Theft,1/22/2019 1603,1/22/2019 1300,1/22/2019 1400,Atanasoff Hall,Recovered,2019-03-21
 19-000056,Theft,01/23/19 1125,,,Troxel Hall,Recovered,2019-03-19
 19-000056,Theft,1/23/2019 1125,,,Troxel Hall,Recovered,2019-03-21
-19-000056,Theft,1/23/2019 1125, , ,Troxel Hall,Recovered,2019-03-28
 19-000058,Fraud,01/23/19 1459,01/23/19 0945,01/23/19 1459,Wilson Hall,Report Initiated,2019-03-19
 19-000058,Fraud,1/23/2019 1459,1/23/2019 0945,1/23/2019 1459,Wilson Hall,Report Initiated,2019-03-21
 19-000061,Theft,1/13/2019 1758,,,Ames Intermodal Facility,Report Initiated,2019-03-21
-19-000061,Theft,1/13/2019 1758, , ,Ames Intermodal Facility,Report Initiated,2019-03-28
 19-000063,Drug Violation/Alcohol Violation,01/23/19 2255,01/23/19 2255,01/23/19 2255,Welch Hall,Arrest,2019-03-19
 19-000063,Drug Violation/Alcohol Violation,1/23/2019 2255,1/23/2019 2255,1/23/2019 2255,Welch Hall,Arrest,2019-03-21
 19-000064,Driving Violation/Drug Violation,01/25/19 0121,01/25/19 0121,01/25/19 0121,Chamberlain Street and Hayward Avenue,Arrest,2019-03-19
@@ -62,17 +54,14 @@ Case Number,Classification,Date/Time Reported,Earliest Occurrence,Latest Occurre
 19-000065,Driving Violation,1/25/2019 0250,1/25/2019 0250,1/25/2019 0250,Franklin Avenue and Lincoln Way,Cited,2019-03-21
 19-000066,Criminal Mischief,01/25/19 1140,,01/24/19 1200,Eaton Hall,Report Initiated,2019-03-19
 19-000066,Criminal Mischief,1/25/2019 1140,,1/24/2019 1200,Eaton Hall,Report Initiated,2019-03-21
-19-000066,Criminal Mischief,1/25/2019 1140, ,1/24/2019 1200,Eaton Hall,Report Initiated,2019-03-28
 19-000067,Criminal Mischief,01/25/19 1512,01/25/19 1220,01/25/19 1305,University Village Laundry Mat,Report Initiated,2019-03-19
 19-000067,Criminal Mischief,1/25/2019 1512,1/25/2019 1220,1/25/2019 1305,University Village Laundry Mat,Report Initiated,2019-03-21
 19-000068,Hit and Run,01/25/19 1518,,01/25/19 1456,Lot 100,Report Initiated,2019-03-19
 19-000068,Hit and Run,1/25/2019 1518,,1/25/2019 1456,Lot 100,Report Initiated,2019-03-21
-19-000068,Hit and Run,1/25/2019 1518, ,1/25/2019 1456,Lot 100,Report Initiated,2019-03-28
 19-000070,Driving Violation,01/25/19 2234,01/25/19 2234,01/25/19 2234,2430 Lincoln Way,Arrest,2019-03-19
 19-000070,Driving Violation,1/25/2019 2234,1/25/2019 2234,1/25/2019 2234,2430 Lincoln Way,Arrest,2019-03-21
 19-000072,Harassment,01/26/19 1109,01/24/19 0000,01/26/19 0000,Various Locations,Report Initiated,2019-03-19
 19-000072,Harassment,1/26/2019 1109,1/24/2019,1/26/2019,Various Locations,Report Initiated,2019-03-21
-19-000072,Harassment,1/26/2019 1109,1/24/2019 ,1/26/2019 ,Various Locations,Report Initiated,2019-03-28
 19-000077,Drug Violation,01/29/19 1336,01/29/19 1336,01/29/19 1336,Maple Hall,Arrest,2019-03-19
 19-000077,Drug Violation,1/29/2019 1336,1/29/2019 1336,1/29/2019 1336,Maple Hall,Arrest,2019-03-21
 19-000078,Drug Violation,01/29/19 2223,01/29/19 2223,01/29/19 2223,Buchanan Hall,Arrest,2019-03-19
@@ -365,12 +354,18 @@ Case Number,Classification,Date/Time Reported,Earliest Occurrence,Latest Occurre
 19-000315,Sexual Assault,3/23/2018 0008,3/23/2018 ,3/23/2018 2300,Frederiksen Court,Report Initiated,2019-03-28
 19-000317,Alcohol Violation,3/23/2019 2241,3/23/2019 2241,3/23/2019 2241,Helser Hall,Cited,2019-03-25
 19-000319,Drug Violation,3/24/2019 0011,3/24/2019 0011,3/24/2019 0011,3417 Lincoln Way,Arrest,2019-03-25
+19-000325,Assault,3/26/2019 1402,3/26/2019 ,3/26/2019 1402,Gilman Hall,Arrest,2019-03-28
+19-000326,Assault,3/26/2019 1733,3/26/2019 ,3/26/2019 ,Gilman Hall,Report Initiated,2019-03-28
+19-000330,Harassment,3/27/2019 1340, ,3/27/2019 ,Hixson Lied Student Success Center,Report Initiated,2019-03-28
+19-000334,Driving Violation/Drug Violation,3/27/2019 2249,3/27/2019 2249,3/27/2019 2249,Dotson Drive and Lincoln Way,Arrest,2019-03-28
+19-000335,Drug Violation,3/27/2019 2254,3/27/2019 2254,3/27/2019 2254,Lot 63,Cited,2019-03-28
+19-000336,Driving Violation/Drug Violation,3/27/2019 2231,3/27/2019 2231,3/27/2019 2231,13th Street and Haber Road,Arrest,2019-03-28
+19-000338,Public Intoxication,3/28/2019 0225,3/28/2019 0225,3/28/2019 0225,Lincoln Way and University Boulevard,Arrest,2019-03-28
 19-0004,Sexual Assault,03/12/19 0000,03/09/19 0000,03/09/19 0000,Frederiksen Court,Assigned - Other,2019-03-19
 19-0004,Sexual Assault,3/12/2019,3/9/2019,3/9/2019,Frederiksen Court,Assigned - Other,2019-03-25
 19-0004,Sexual Assault,3/12/2019 ,3/9/2019 ,3/9/2019 ,Frederiksen Court,Assigned - Other,2019-03-28
 19-001,Harassment,01/22/19 0000,01/18/19 0000,01/18/19 0000,Memorial Union,Assigned - Other,2019-03-19
 19-001,Harassment,1/22/2019,1/18/2019,1/18/2019,Memorial Union,Assigned - Other,2019-03-21
-19-001,Harassment,1/22/2019 ,1/18/2019 ,1/18/2019 ,Memorial Union,Assigned - Other,2019-03-28
 19-002,Harassment,02/01/19 0000,01/30/19 0000,02/01/19 0000,Various Locations,Assigned - Other,2019-03-19
 19-002,Harassment,2/1/2019,1/30/2019,2/1/2019,Various Locations,Assigned - Other,2019-03-21
 19-002,Harassment,2/1/2019 ,1/30/2019 ,2/1/2019 ,Various Locations,Assigned - Other,2019-03-28
