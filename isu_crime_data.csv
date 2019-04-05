@@ -80,15 +80,12 @@ Case Number,Classification,Date/Time Reported,Earliest Occurrence,Latest Occurre
 19-000088,Theft,1/31/2019 1656,1/30/2019 1436,1/30/2019 1436,Memorial Union,Report Initiated,2019-03-21
 19-000089,Fraud,01/31/19 1611,01/30/19 0000,01/30/19 0000,Buchanan Hall,Report Initiated,2019-03-19
 19-000089,Fraud,1/31/2019 1611,1/30/2019,1/30/2019,Buchanan Hall,Report Initiated,2019-03-21
-19-000089,Fraud,1/31/2019 1611,1/30/2019 ,1/30/2019 ,Buchanan Hall,Report Initiated,2019-04-05
 19-000092,Hit and Run,02/01/19 1543,01/29/19 0000,02/01/19 0000,Lot 1,Report Initiated,2019-03-19
 19-000092,Hit and Run,2/1/2019 1543,1/29/2019,2/1/2019,Lot 1,Report Initiated,2019-03-21
-19-000092,Hit and Run,2/1/2019 1543,1/29/2019 ,2/1/2019 ,Lot 1,Report Initiated,2019-04-05
 19-000093,Drug Violation,02/01/19 2129,02/01/19 2129,02/01/19 2129,Lot 63,Arrest,2019-03-19
 19-000093,Drug Violation,2/1/2019 2129,2/1/2019 2129,2/1/2019 2129,Lot 63,Arrest,2019-03-21
 19-000094,Harassment,02/02/19 2305,02/01/19 0000,02/02/19 0000,Buchanan Hall,Report Initiated,2019-03-19
 19-000094,Harassment,2/2/2019 2305,2/1/2019,2/2/2019,Buchanan Hall,Report Initiated,2019-03-21
-19-000094,Harassment,2/2/2019 2305,2/1/2019 ,2/2/2019 ,Buchanan Hall,Report Initiated,2019-04-05
 19-000096,Drug Violation,02/03/19 0132,02/03/19 0132,02/03/19 0132,13th Street and Hyland,Arrest,2019-03-19
 19-000096,Drug Violation,2/3/2019 0132,2/3/2019 0132,2/3/2019 0132,13th Street and Hyland,Arrest,2019-03-21
 19-000102,Hit and Run,02/04/19 1154,02/01/19 0800,02/04/19 1154,Lot 60,Report Initiated,2019-03-19
@@ -116,7 +113,7 @@ Case Number,Classification,Date/Time Reported,Earliest Occurrence,Latest Occurre
 19-000115,Disorderly Conduct,2/5/2019 1741, ,2/5/2019 1741,22 Frederiksen Court,Report Initiated,2019-04-05
 19-000116,Harassment,02/05/19 2043,,02/05/19 2043,Friley Hall,Report Initiated,2019-03-19
 19-000116,Harassment,2/5/2019 2043,,2/5/2019 2043,Friley Hall,Report Initiated,2019-03-21
-19-000116,Harassment,2/5/2019 2043, ,2/5/2019 2043,Friley Hall,Report Initiated,2019-04-05
+19-000116,Harassment,2/5/2019 2043, ,2/5/2019 2043,Friley Hall,Closed,2019-04-05
 19-000118,Assault,02/06/19 0943,02/05/19 0000,02/05/19 0000,35 Frederiksen Court,Report Initiated,2019-03-19
 19-000118,Assault,2/6/2019 0943,2/5/2019 0000,2/5/2019 0000,35 Frederiksen Court,Report Initiated,2019-03-21
 19-000120,Hit and Run,02/06/19 1725,,02/06/19 1725,Lot 57,Report Initiated,2019-03-19
@@ -324,6 +321,7 @@ Case Number,Classification,Date/Time Reported,Earliest Occurrence,Latest Occurre
 19-000295,Driving Violation,3/14/2019 0022,3/14/2019 0022,3/14/2019 0022,Knapp Street and Stanton Avenue,Cited,2019-03-25
 19-000296,Driving Violation,03/14/19 0153,03/14/19 0153,03/14/19 0153,,Arrest,2019-03-19
 19-000296,Driving Violation,3/14/2019 0153,3/14/2019 0153,3/14/2019 0153,,Arrest,2019-03-25
+19-000296,Driving Violation,3/14/2019 0153,3/14/2019 0153,3/14/2019 0153,Beach Avenue and Lincoln Way,Arrest,2019-04-05
 19-000297,Harassment,03/14/19 0821,03/08/19 0000,03/14/19 0000,Online,Report Initiated,2019-03-19
 19-000297,Harassment,3/14/2019 0821,3/8/2019,3/14/2019,Online,Report Initiated,2019-03-25
 19-000297,Harassment,3/14/2019 0821,3/8/2019 ,3/14/2019 ,Online,Report Initiated,2019-04-05
@@ -374,6 +372,14 @@ Case Number,Classification,Date/Time Reported,Earliest Occurrence,Latest Occurre
 19-000347,Public Intoxication,3/30/2019 1907,3/30/2019 1907,3/30/2019 1907,Hayward Avenue and Little Street,Arrest,2019-04-01
 19-000349,Drug Violation,3/30/2019 2210,3/30/2019 2210,3/30/2019 2210,Lot 63,Arrest,2019-04-01
 19-000350,OWI,3/31/2019 0207,3/31/2019 0207,3/31/2019 0207,Mortensen Road and State Avenue,Arrest,2019-04-01
+19-000354,Assault,4/1/2019 1713,4/1/2019 1600,4/1/2019 1600,2623 Bruner Drive,Report Initiated,2019-04-05
+19-000355,Hit and Run Personal Injury,4/1/2019 2014,4/1/2019 2005,4/1/2019 2005,224-C2100 Beach Road,Report Initiated,2019-04-05
+19-000356,Theft,4/1/2019 2352,4/1/2019 2100,4/1/2019 2200,Lot 63,Report Initiated,2019-04-05
+19-000358,Criminal Mischief,4/3/2019 1100,3/24/2019 ,4/3/2019 ,Helser Hall,Report Initiated,2019-04-05
+19-000360,Theft from Motor Vehicle,4/3/2019 1529,4/2/2019 1430,4/3/2019 1430,Lot 112B,Report Initiated,2019-04-05
+19-000363,Theft,4/3/2019 1927,3/25/2019 1300,3/25/2019 1500,Carver Hall,Report Initiated,2019-04-05
+19-000365,Theft,4/4/2019 1443, ,4/4/2019 ,Roberts Hall,Report Initiated,2019-04-05
+19-000366,OWI,4/5/2019 0127,4/5/2019 0127,4/5/2019 0127,Ash Avenue and Knapp Street,Arrest,2019-04-05
 19-0004,Sexual Assault,03/12/19 0000,03/09/19 0000,03/09/19 0000,Frederiksen Court,Assigned - Other,2019-03-19
 19-0004,Sexual Assault,3/12/2019,3/9/2019,3/9/2019,Frederiksen Court,Assigned - Other,2019-03-25
 19-0004,Sexual Assault,3/12/2019 ,3/9/2019 ,3/9/2019 ,Frederiksen Court,Assigned - Other,2019-04-05
@@ -383,7 +389,6 @@ Case Number,Classification,Date/Time Reported,Earliest Occurrence,Latest Occurre
 19-001,Harassment,1/22/2019,1/18/2019,1/18/2019,Memorial Union,Assigned - Other,2019-03-21
 19-002,Harassment,02/01/19 0000,01/30/19 0000,02/01/19 0000,Various Locations,Assigned - Other,2019-03-19
 19-002,Harassment,2/1/2019,1/30/2019,2/1/2019,Various Locations,Assigned - Other,2019-03-21
-19-002,Harassment,2/1/2019 ,1/30/2019 ,2/1/2019 ,Various Locations,Assigned - Other,2019-04-05
 19-003,Stalking,02/25/19 0000,,02/25/19 0000,Martin Hall,Assigned - Other,2019-03-19
 19-003,Stalking,2/25/2019,,2/25/2019,Martin Hall,Assigned - Other,2019-03-21
 19-003,Stalking,2/25/2019 , ,2/25/2019 ,Martin Hall,Assigned - Other,2019-04-05
