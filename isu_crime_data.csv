@@ -92,34 +92,27 @@ Case Number,Classification,Date/Time Reported,Earliest Occurrence,Latest Occurre
 19-000102,Hit and Run,2/4/2019 1154,2/1/2019 0800,2/4/2019 1154,Lot 60,Report Initiated,2019-03-21
 19-000103,Theft,02/04/19 1235,02/01/19 0000,02/04/19 1235,Legacy Tower,Report Initiated,2019-03-19
 19-000103,Theft,2/4/2019 1235,2/1/2019,2/4/2019 1235,Legacy Tower,Report Initiated,2019-03-21
-19-000103,Theft,2/4/2019 1235,2/1/2019 ,2/4/2019 1235,Legacy Tower,Report Initiated,2019-04-08
 19-000104,Hit and Run,02/04/19 1341,01/27/19 0000,02/01/19 0000,Lot 112A,Report Initiated,2019-03-19
 19-000104,Hit and Run,2/4/2019 1341,1/27/2019,2/1/2019,Lot 112A,Report Initiated,2019-03-21
-19-000104,Hit and Run,2/4/2019 1341,1/27/2019 ,2/1/2019 ,Lot 112A,Report Initiated,2019-04-08
 19-000108,Criminal Mischief,02/05/19 1242,02/05/19 0745,02/05/19 1242,Lot B6,Report Initiated,2019-03-19
 19-000108,Criminal Mischief,2/5/2019 1242,2/5/2019 0745,2/5/2019 1242,Lot B6,Report Initiated,2019-03-21
 19-000109,Theft,02/05/19 1304,02/05/19 1100,02/05/19 1304,University Bookstore,Arrest,2019-03-19
 19-000109,Theft,2/5/2019 1304,2/5/2019 1100,2/5/2019 1304,University Bookstore,Arrest,2019-03-21
 19-000110,Harassment,02/05/19 1412,,,Armory Building,Report Initiated,2019-03-19
 19-000110,Harassment,2/5/2019 1412,,,Armory Building,Report Initiated,2019-03-21
-19-000110,Harassment,2/5/2019 1412, , ,Armory Building,Report Initiated,2019-04-08
 19-000111,Hit and Run,02/05/19 1551,02/05/19 1100,02/05/19 1100,Lot 21,Report Initiated,2019-03-19
 19-000111,Hit and Run,2/5/2019 1551,2/5/2019 1100,2/5/2019 1100,Lot 21,Report Initiated,2019-03-21
 19-000114,Fraud,02/05/19 1856,02/05/19 0000,02/05/19 0000,Geoffroy Hall,Report Initiated,2019-03-19
 19-000114,Fraud,2/5/2019 1856,2/5/2019,2/5/2019,Geoffroy Hall,Report Initiated,2019-03-21
-19-000114,Fraud,2/5/2019 1856,2/5/2019 ,2/5/2019 ,Geoffroy Hall,Report Initiated,2019-04-08
 19-000115,Disorderly Conduct,02/05/19 1741,,02/05/19 1741,22 Frederiksen Court,Report Initiated,2019-03-19
 19-000115,Disorderly Conduct,2/5/2019 1741,,2/5/2019 1741,22 Frederiksen Court,Report Initiated,2019-03-21
-19-000115,Disorderly Conduct,2/5/2019 1741, ,2/5/2019 1741,22 Frederiksen Court,Report Initiated,2019-04-08
 19-000116,Harassment,02/05/19 2043,,02/05/19 2043,Friley Hall,Report Initiated,2019-03-19
 19-000116,Harassment,2/5/2019 2043,,2/5/2019 2043,Friley Hall,Closed,2019-04-05
 19-000116,Harassment,2/5/2019 2043,,2/5/2019 2043,Friley Hall,Report Initiated,2019-03-21
-19-000116,Harassment,2/5/2019 2043, ,2/5/2019 2043,Friley Hall,Closed,2019-04-08
 19-000118,Assault,02/06/19 0943,02/05/19 0000,02/05/19 0000,35 Frederiksen Court,Report Initiated,2019-03-19
 19-000118,Assault,2/6/2019 0943,2/5/2019 0000,2/5/2019 0000,35 Frederiksen Court,Report Initiated,2019-03-21
 19-000120,Hit and Run,02/06/19 1725,,02/06/19 1725,Lot 57,Report Initiated,2019-03-19
 19-000120,Hit and Run,2/6/2019 1725,,2/6/2019 1725,Lot 57,Report Initiated,2019-03-21
-19-000120,Hit and Run,2/6/2019 1725, ,2/6/2019 1725,Lot 57,Report Initiated,2019-04-08
 19-000122,Theft,02/06/19 2040,02/06/19 1940,02/06/19 2015,University Village Laundry Mat,Report Initiated,2019-03-19
 19-000122,Theft,2/6/2019 2040,2/6/2019 1940,2/6/2019 2015,University Village Laundry Mat,Report Initiated,2019-03-21
 19-000123,Sexual Assault,02/07/19 0035,,02/07/19 0035,University Village,Report Initiated,2019-03-19
@@ -381,8 +374,23 @@ Case Number,Classification,Date/Time Reported,Earliest Occurrence,Latest Occurre
 19-000360,Theft from Motor Vehicle,4/3/2019 1529,4/2/2019 1430,4/3/2019 1430,Lot 112B,Report Initiated,2019-04-05
 19-000363,Theft,4/3/2019 1927,3/25/2019 1300,3/25/2019 1500,Carver Hall,Report Initiated,2019-04-05
 19-000365,Theft,4/4/2019 1443,,4/4/2019,Roberts Hall,Report Initiated,2019-04-05
-19-000365,Theft,4/4/2019 1443, ,4/4/2019 ,Roberts Hall,Report Initiated,2019-04-08
+19-000365,Theft,4/4/2019 1443,4/3/2019 2100,4/4/2019 0900,Roberts Hall,Report Initiated,2019-04-08
 19-000366,OWI,4/5/2019 0127,4/5/2019 0127,4/5/2019 0127,Ash Avenue and Knapp Street,Arrest,2019-04-05
+19-000368,Criminal Mischief,4/5/2019 1025, ,4/5/2019 ,Molecular Biology Building,Report Initiated,2019-04-08
+19-000371,Theft,4/5/2019 1830,4/4/2019 2330,4/5/2019 0600,University Village Laundry Mat,Report Initiated,2019-04-08
+19-000372,Theft,4/5/2019 1957, , ,Wallace Hall,Report Initiated,2019-04-08
+19-000373,Public Intoxication,4/5/2019 2207,4/5/2019 2207,4/5/2019 2207,Knapp Street and Lynn Avenue,Arrest,2019-04-08
+19-000374,Driving Violation/Alcohol Violation,4/6/2019 0128,4/6/2019 0128,4/6/2019 0128,Lincoln Way and Stanton Avenue,Cited,2019-04-08
+19-000375,Public Intoxication,4/6/2019 0402,4/6/2019 0402,4/6/2019 0402,Little Street and Welch Avenue,Arrest,2019-04-08
+19-000376,Sexual Assault,4/6/2019 0354,4/6/2019 0248,4/6/2019 0354,University Village,Report Initiated,2019-04-08
+19-000377,Alcohol Violation,4/6/2019 1700,4/6/2019 1700,4/6/2019 1700,Knapp Street and Lynn Avenue,Cited,2019-04-08
+19-000378,Alcohol Violation,4/6/2019 1843,4/6/2019 1843,4/6/2019 1843,Tripp Street and S. Wilmoth Avenue,Cited,2019-04-08
+19-000379,Alcohol Violation,4/6/2019 1853,4/6/2019 1853,4/6/2019 1853,Hayward Avenue and Knapp Street,Cited,2019-04-08
+19-000380,Alcohol Violation,4/6/2019 2026,4/6/2019 2026,4/6/2019 2026,Ames Intermodal Facility,Cited,2019-04-08
+19-000381,Alcohol Violation,4/6/2019 2115,4/6/2019 2115,4/6/2019 2115,Chamberlain Street and Hayward Avenue,Cited,2019-04-08
+19-000382,Alcohol Violation,4/6/2019 2214,4/6/2019 2214,4/6/2019 2214,Arbor Street and State Avenue,Cited,2019-04-08
+19-000386,Sexual Assault,4/7/2019 1712,4/6/2019 2223,4//7/2019 0630,Buchanan Hall,Report Initiated,2019-04-08
+19-000387,OWI,4/7/2019 2137,4/7/2019 2137,4/7/2019 2137,Haber Road and N. University Boulevard,Arrest,2019-04-08
 19-0004,Sexual Assault,03/12/19 0000,03/09/19 0000,03/09/19 0000,Frederiksen Court,Assigned - Other,2019-03-19
 19-0004,Sexual Assault,3/12/2019,3/9/2019,3/9/2019,Frederiksen Court,Assigned - Other,2019-03-25
 19-0004,Sexual Assault,3/12/2019 ,3/9/2019 ,3/9/2019 ,Frederiksen Court,Assigned - Other,2019-04-08
