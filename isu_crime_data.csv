@@ -117,19 +117,16 @@ Case Number,Classification,Date/Time Reported,Earliest Occurrence,Latest Occurre
 19-000122,Theft,2/6/2019 2040,2/6/2019 1940,2/6/2019 2015,University Village Laundry Mat,Report Initiated,2019-03-21
 19-000123,Sexual Assault,02/07/19 0035,,02/07/19 0035,University Village,Report Initiated,2019-03-19
 19-000123,Sexual Assault,2/7/2019 0035,,2/7/2019 0035,University Village,Report Initiated,2019-03-21
-19-000123,Sexual Assault,2/7/2019 0035, ,2/7/2019 0035,University Village,Report Initiated,2019-04-10
 19-000125,Fraud,02/07/19 1519,02/07/19 1513,02/07/19 1513,Wilson Hall,Report Initiated,2019-03-19
 19-000125,Fraud,2/7/2019 1519,2/7/2019 1513,2/7/2019 1513,Wilson Hall,Report Initiated,2019-03-21
 19-000126,Drug Violation,02/07/19 1912,02/07/19 1912,02/07/19 1912,Helser Hall,Arrest,2019-03-19
 19-000126,Drug Violation,2/7/2019 1912,2/7/2019 1912,2/7/2019 1912,Helser Hall,Arrest,2019-03-21
 19-000129,Harassment,02/07/19 2000,,02/07/19 2000,Buchanan Hall,Report Initiated,2019-03-19
 19-000129,Harassment,2/7/2019 2000,,2/7/2019 2000,Buchanan Hall,Report Initiated,2019-03-21
-19-000129,Harassment,2/7/2019 2000, ,2/7/2019 2000,Buchanan Hall,Report Initiated,2019-04-10
 19-000130,Theft,02/08/19 0936,02/04/19 1246,02/04/19 1246,University Bookstore,Arrest,2019-03-19
 19-000130,Theft,2/8/2019 0936,2/4/2019 1246,2/4/2019 1246,University Bookstore,Arrest,2019-03-21
 19-000131,Theft,02/08/19 0939,10/12/18 0000,02/04/19 0000,University Bookstore,Arrest,2019-03-19
 19-000131,Theft,2/8/2019 0939,10/12/2018,2/4/2019,University Bookstore,Arrest,2019-03-21
-19-000131,Theft,2/8/2019 0939,10/12/2018 ,2/4/2019 ,University Bookstore,Arrest,2019-04-10
 19-000132,Theft,02/08/19 1111,02/08/19 1045,02/08/19 1045,University Bookstore,Report Initiated,2019-03-19
 19-000132,Theft,2/8/2019 1111,2/8/2019 1045,2/8/2019 1045,University Bookstore,Report Initiated,2019-03-21
 19-000133,Hit and Run,02/08/19 1711,02/08/19 1700,02/08/19 1700,Lot 62,Report Initiated,2019-03-19
@@ -380,7 +377,7 @@ Case Number,Classification,Date/Time Reported,Earliest Occurrence,Latest Occurre
 19-000368,Criminal Mischief,4/5/2019 1025, ,4/5/2019 ,Molecular Biology Building,Report Initiated,2019-04-10
 19-000371,Theft,4/5/2019 1830,4/4/2019 2330,4/5/2019 0600,University Village Laundry Mat,Report Initiated,2019-04-08
 19-000372,Theft,4/5/2019 1957,,,Wallace Hall,Report Initiated,2019-04-08
-19-000372,Theft,4/5/2019 1957, , ,Wallace Hall,Report Initiated,2019-04-10
+19-000372,Theft,4/5/2019 1957,1/14/2019 ,4/5/2019 0730,Wallace Hall,Report Initiated,2019-04-10
 19-000373,Public Intoxication,4/5/2019 2207,4/5/2019 2207,4/5/2019 2207,Knapp Street and Lynn Avenue,Arrest,2019-04-08
 19-000374,Driving Violation/Alcohol Violation,4/6/2019 0128,4/6/2019 0128,4/6/2019 0128,Lincoln Way and Stanton Avenue,Cited,2019-04-08
 19-000375,Public Intoxication,4/6/2019 0402,4/6/2019 0402,4/6/2019 0402,Little Street and Welch Avenue,Arrest,2019-04-08
