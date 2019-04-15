@@ -135,17 +135,14 @@ Case Number,Classification,Date/Time Reported,Earliest Occurrence,Latest Occurre
 19-000134,Alcohol Violation,2/8/2019 2246,2/8/2019 2246,2/8/2019 2246,Gable Lane and Gray Avenue,Arrest,2019-03-21
 19-000141,Theft,02/09/19 1624,01/14/19 0000,01/31/19 0000,University Bookstore,Arrest,2019-03-19
 19-000141,Theft,2/9/2019 1624,1/14/2019,1/31/2019,University Bookstore,Arrest,2019-03-21
-19-000141,Theft,2/9/2019 1624,1/14/2019 ,1/31/2019 ,University Bookstore,Arrest,2019-04-15
 19-000142,OWI,02/10/19 0124,02/10/19 0124,02/10/19 0124,Ash Avenue and Knapp Street,Arrest,2019-03-19
 19-000142,OWI,2/10/2019 0124,2/10/2019 0124,2/10/2019 0124,Ash Avenue and Knapp Street,Arrest,2019-03-21
 19-000150,Theft,02/11/19 0915,02/09/19 0000,02/09/19 0000,University Village Laundry Mat,Report Initiated,2019-03-19
 19-000150,Theft,2/11/2019 0915,2/9/2019,2/9/2019,University Village Laundry Mat,Report Initiated,2019-03-21
-19-000150,Theft,2/11/2019 0915,2/9/2019 ,2/9/2019 ,University Village Laundry Mat,Report Initiated,2019-04-15
 19-000154,Theft,02/11/19 2117,02/11/19 1820,02/11/19 2040,Lied Recreation Center,Recovered,2019-03-19
 19-000154,Theft,2/11/2019 2117,2/11/2019 1820,2/11/2019 2040,Lied Recreation Center,Recovered,2019-03-21
 19-000157,Harassment,02/12/19 1429,,,302 Ash Avenue,Report Initiated,2019-03-19
 19-000157,Harassment,2/12/2019 1429,,,302 Ash Avenue,Report Initiated,2019-03-21
-19-000157,Harassment,2/12/2019 1429, , ,302 Ash Avenue,Report Initiated,2019-04-15
 19-000159,Driving Violation,02/13/19 0032,02/13/19 0032,02/13/19 0032,Hayward Avenue and Lincoln Way,Arrest,2019-03-19
 19-000159,Driving Violation,2/13/2019 0032,2/13/2019 0032,2/13/2019 0032,Hayward Avenue and Lincoln Way,Arrest,2019-03-21
 19-000160,Outstanding Warrant,02/13/19 0059,02/13/19 0059,02/13/19 0059,Hayward Avenue and Lincoln Way,Arrest,2019-03-19
@@ -391,11 +388,21 @@ Case Number,Classification,Date/Time Reported,Earliest Occurrence,Latest Occurre
 19-000382,Alcohol Violation,4/6/2019 2214,4/6/2019 2214,4/6/2019 2214,Arbor Street and State Avenue,Cited,2019-04-08
 19-000386,Sexual Assault,4/7/2019 1712,4/6/2019 2223,4//7/2019 0630,Buchanan Hall,Report Initiated,2019-04-08
 19-000387,OWI,4/7/2019 2137,4/7/2019 2137,4/7/2019 2137,Haber Road and N. University Boulevard,Arrest,2019-04-08
+19-000389,Theft,4/8/2019 1200,4/2/2019 1315,4/3/2019 0100,Scheman Building,Report Initiated,2019-04-15
+19-000390,Trespass,4/8/2019 1207,4/8/2019 1207,4/8/2019 1207,Scheman Building,Arrest,2019-04-15
+19-000391,Theft,4/8/2019 1935,4/7/2019 2330,4/8/2019 0230,Linden Hall,Recovered,2019-04-15
+19-000394,Theft,4/9/2019 1428,4/4/2019 1945,4/9/2019 1000,Welch Hall,Report Initiated,2019-04-15
+19-000395,Sexual Assault,4/9/2019 2017,4/4/2019 , ,Friley Hall,Report Initiated,2019-04-15
+19-000397,Theft,4/10/2019 1901,4/10/2019 1815,4/10/2019 1815,Hoover Hall,Report Initiated,2019-04-15
 19-0004,Sexual Assault,03/12/19 0000,03/09/19 0000,03/09/19 0000,Frederiksen Court,Assigned - Other,2019-03-19
 19-0004,Sexual Assault,3/12/2019,3/9/2019,3/9/2019,Frederiksen Court,Assigned - Other,2019-03-25
 19-0004,Sexual Assault,3/12/2019 ,3/9/2019 ,3/9/2019 ,Frederiksen Court,Assigned - Other,2019-04-15
+19-000402,Public Intoxication,4/13/2019 0010,4/13/2019 0010,4/13/2019 0010,Lot 59D,Arrest,2019-04-15
+19-000404,Alcohol Violation,4/13/2019 2143,4/13/2019 2143,4/13/2019 2143,Gable Lane and Gray Avenue,Arrest,2019-04-15
+19-000406,Theft,4/14/2019 1839,4/14/2019 1600,4/14/2019 1830,University Village Laundry Mat,Report Initiated,2019-04-15
 19-0005,Stalking,3/27/2019,,3/27/2019,Various Locations,Assigned - Other,2019-04-01
 19-0005,Stalking,3/27/2019 , ,3/27/2019 ,Various Locations,Assigned - Other,2019-04-15
+19-0006,Stalking,4/5/2019 , , ,Wilson Hall,Assigned - Other,2019-04-15
 19-001,Harassment,01/22/19 0000,01/18/19 0000,01/18/19 0000,Memorial Union,Assigned - Other,2019-03-19
 19-001,Harassment,1/22/2019,1/18/2019,1/18/2019,Memorial Union,Assigned - Other,2019-03-21
 19-002,Harassment,02/01/19 0000,01/30/19 0000,02/01/19 0000,Various Locations,Assigned - Other,2019-03-19
