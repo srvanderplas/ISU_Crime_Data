@@ -150,7 +150,6 @@ Case Number,Classification,Date/Time Reported,Earliest Occurrence,Latest Occurre
 19-000163,Fraud,2/13/2019 1511,2/13/2019 1330,2/13/2019 1330,Wilson Hall,Report Initiated,2019-03-21
 19-000166,Hit and Run,02/14/19 1139,,02/14/19 1139,Lot 59E,Report Initiated,2019-03-19
 19-000166,Hit and Run,2/14/2019 1139,,2/14/2019 1139,Lot 59E,Report Initiated,2019-03-21
-19-000166,Hit and Run,2/14/2019 1139, ,2/14/2019 1139,Lot 59E,Report Initiated,2019-04-17
 19-000168,OWI,02/15/19 0219,02/15/19 0219,02/15/19 0219,Bruner Drive and Long Road,Arrest,2019-03-19
 19-000168,OWI,2/15/2019 0219,2/15/2019 0219,2/15/2019 0219,Bruner Drive and Long Road,Arrest,2019-03-21
 19-000178,Alcohol Violation,02/17/19 2106,02/17/19 2106,02/17/19 2106,Buchanan Hall,Cited,2019-03-19
@@ -401,6 +400,9 @@ Case Number,Classification,Date/Time Reported,Earliest Occurrence,Latest Occurre
 19-000402,Public Intoxication,4/13/2019 0010,4/13/2019 0010,4/13/2019 0010,Lot 59D,Arrest,2019-04-15
 19-000404,Alcohol Violation,4/13/2019 2143,4/13/2019 2143,4/13/2019 2143,Gable Lane and Gray Avenue,Arrest,2019-04-15
 19-000406,Theft,4/14/2019 1839,4/14/2019 1600,4/14/2019 1830,University Village Laundry Mat,Report Initiated,2019-04-15
+19-000409,Fraud,4/15/2019 1733,4/15/2019 1340,4/15/2019 1340,73 Frederiksen Court,Report Initiated,2019-04-17
+19-000411,OWI,4/16/2019 0058,4/16/2019 0058,4/16/2019 0058,3621 Lincoln Way,Arrest,2019-04-17
+19-000415,Criminal Mischief,4/17/2019 0535, ,4/17/2019 0535,Molecular Biology Building,Report Initiated,2019-04-17
 19-0005,Stalking,3/27/2019,,3/27/2019,Various Locations,Assigned - Other,2019-04-01
 19-0005,Stalking,3/27/2019 , ,3/27/2019 ,Various Locations,Assigned - Other,2019-04-17
 19-0006,Stalking,4/5/2019,,,Wilson Hall,Assigned - Other,2019-04-15
