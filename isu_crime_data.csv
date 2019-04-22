@@ -158,10 +158,8 @@ Case Number,Classification,Date/Time Reported,Earliest Occurrence,Latest Occurre
 19-000179,Drug Violation,2/18/2019 0011,2/18/2019 0011,2/18/2019 0011,Buchanan Hall,Arrest,2019-03-21
 19-000181,Harassment,02/18/19 1515,,02/18/19 1515,Sukup Hall,Report Initiated,2019-03-19
 19-000181,Harassment,2/18/2019 1515,,2/18/2019 1515,Sukup Hall,Report Initiated,2019-03-21
-19-000181,Harassment,2/18/2019 1515, ,2/18/2019 1515,Sukup Hall,Report Initiated,2019-04-22
 19-000182,Harassment,02/18/19 2342,,02/18/19 2342,Wilson Hall,Report Initiated,2019-03-19
 19-000182,Harassment,2/18/2019 2342,,2/18/2019 2342,Wilson Hall,Report Initiated,2019-03-21
-19-000182,Harassment,2/18/2019 2342, ,2/18/2019 2342,Wilson Hall,Report Initiated,2019-04-22
 19-000185,Drug Violation,02/19/19 1713,02/19/19 1713,02/19/19 1713,Larch Hall,Arrest,2019-03-19
 19-000185,Drug Violation,2/19/2019 1713,2/19/2019 1713,2/19/2019 1713,Larch Hall,Arrest,2019-03-21
 19-000186,Drug Violation,02/19/19 1750,02/19/19 1750,02/19/19 1750,Willow Hall,Arrest,2019-03-19
@@ -378,6 +376,7 @@ Case Number,Classification,Date/Time Reported,Earliest Occurrence,Latest Occurre
 19-000373,Public Intoxication,4/5/2019 2207,4/5/2019 2207,4/5/2019 2207,Knapp Street and Lynn Avenue,Arrest,2019-04-08
 19-000374,Driving Violation/Alcohol Violation,4/6/2019 0128,4/6/2019 0128,4/6/2019 0128,Lincoln Way and Stanton Avenue,Cited,2019-04-08
 19-000375,Public Intoxication,4/6/2019 0402,4/6/2019 0402,4/6/2019 0402,Little Street and Welch Avenue,Arrest,2019-04-08
+19-000376,Sexual Assault,4/6/2019 0354,4/6/2019 0248,4/6/2019 0354,University Village,Arrest,2019-04-22
 19-000376,Sexual Assault,4/6/2019 0354,4/6/2019 0248,4/6/2019 0354,University Village,Report Initiated,2019-04-08
 19-000377,Alcohol Violation,4/6/2019 1700,4/6/2019 1700,4/6/2019 1700,Knapp Street and Lynn Avenue,Cited,2019-04-08
 19-000378,Alcohol Violation,4/6/2019 1843,4/6/2019 1843,4/6/2019 1843,Tripp Street and S. Wilmoth Avenue,Cited,2019-04-08
@@ -414,10 +413,16 @@ Case Number,Classification,Date/Time Reported,Earliest Occurrence,Latest Occurre
 19-000421,Theft,4/18/2019 1336,4/18/2019,4/18/2019,Buchanan Hall,Report Initiated,2019-04-19
 19-000421,Theft,4/18/2019 1336,4/18/2019 ,4/18/2019 ,Buchanan Hall,Report Initiated,2019-04-22
 19-000423,OWI,4/19/2019 0128,4/19/2019 0128,4/19/2019 0128,Lincoln Way and State Avenue,Arrest,2019-04-19
+19-000424,OWI,4/19/2019 0210,4/19/2019 0210,4/19/2019 0210,Lincoln Way and Lynn Avenue,Arrest,2019-04-22
+19-000425,OWI,4/19/2019 0243,4/19/2019 0243,4/19/2019 0243,13th Street and Stange Road,Arrest,2019-04-22
+19-000431,Theft,4/20/2019 1123,4/20/2019 1100,4/20/2019 1100,Frederiksen Court Community Center,Report Initiated,2019-04-22
+19-000433,Public Intoxication,4/20/2019 2224,4/20/2019 2224,4/20/2019 2224,Birch Hall,Arrest,2019-04-22
+19-000434,Theft,4/21/2019 1810,4/18/2019 1200,4/21/2019 1800,36 Frederiksen Court,Report Initiated,2019-04-22
 19-0005,Stalking,3/27/2019,,3/27/2019,Various Locations,Assigned - Other,2019-04-01
 19-0005,Stalking,3/27/2019 , ,3/27/2019 ,Various Locations,Assigned - Other,2019-04-22
 19-0006,Stalking,4/5/2019,,,Wilson Hall,Assigned - Other,2019-04-15
 19-0006,Stalking,4/5/2019 , , ,Wilson Hall,Assigned - Other,2019-04-22
+19-0007,Harassment,4/18/2019 , ,4/13/2019 ,1022 Welch Avenue,Assigned - Other,2019-04-22
 19-001,Harassment,01/22/19 0000,01/18/19 0000,01/18/19 0000,Memorial Union,Assigned - Other,2019-03-19
 19-001,Harassment,1/22/2019,1/18/2019,1/18/2019,Memorial Union,Assigned - Other,2019-03-21
 19-002,Harassment,02/01/19 0000,01/30/19 0000,02/01/19 0000,Various Locations,Assigned - Other,2019-03-19
