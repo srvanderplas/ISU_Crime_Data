@@ -170,15 +170,12 @@ Case Number,Classification,Date/Time Reported,Earliest Occurrence,Latest Occurre
 19-000197,Hit and Run,2/22/2019 1206,2/22/2019 1206,2/22/2019 1206,13th Street and Haber Road,Report Initiated,2019-03-21
 19-000200,Reckless Driving,02/23/19 0435,,02/23/19 0435,3800 Lincoln Way,Report Initiated,2019-03-19
 19-000200,Reckless Driving,2/23/2019 0435,,2/23/2019 0435,3800 Lincoln Way,Report Initiated,2019-03-21
-19-000200,Reckless Driving,2/23/2019 0435, ,2/23/2019 0435,3800 Lincoln Way,Report Initiated,2019-04-26
 19-000201,Theft,02/23/19 1413,02/22/19 2030,02/23/19 1413,33 Frederiksen Court,Report Initiated,2019-03-19
 19-000201,Theft,2/23/2019 1413,2/22/2019 2030,2/23/2019 1413,33 Frederiksen Court,Report Initiated,2019-03-21
 19-000202,Fraud,02/23/19 1450,,02/23/19 1450,Wilson Hall,Report Initiated,2019-03-19
 19-000202,Fraud,2/23/2019 1450,,2/23/2019 1450,Wilson Hall,Report Initiated,2019-03-21
-19-000202,Fraud,2/23/2019 1450, ,2/23/2019 1450,Wilson Hall,Report Initiated,2019-04-26
 19-000204,Harassment,02/23/19 2013,02/09/19 0000,03/24/19 0000,Wilson Hall,Report Initiated,2019-03-19
 19-000204,Harassment,2/23/2019 2013,2/9/2019,3/24/2019,Wilson Hall,Report Initiated,2019-03-21
-19-000204,Harassment,2/23/2019 2013,2/9/2019 ,3/24/2019 ,Wilson Hall,Report Initiated,2019-04-26
 19-000205,Drug Violation,02/24/19 0236,02/24/19 0236,02/24/19 0236,Welch Hall,Report Initiated,2019-03-19
 19-000205,Drug Violation,2/24/2019 0236,2/24/2019 0236,2/24/2019 0236,Welch Hall,Report Initiated,2019-03-21
 19-000207,Theft,02/25/19 0110,02/24/19 2220,02/25/19 0050,University Village Laundry Mat,Report Initiated,2019-03-19
@@ -419,12 +416,26 @@ Case Number,Classification,Date/Time Reported,Earliest Occurrence,Latest Occurre
 19-000431,Theft,4/20/2019 1123,4/20/2019 1100,4/20/2019 1100,Frederiksen Court Community Center,Report Initiated,2019-04-22
 19-000433,Public Intoxication,4/20/2019 2224,4/20/2019 2224,4/20/2019 2224,Birch Hall,Arrest,2019-04-22
 19-000434,Theft,4/21/2019 1810,4/18/2019 1200,4/21/2019 1800,36 Frederiksen Court,Report Initiated,2019-04-22
+19-000443,Drug Violation,4/23/2019 2156,4/23/2019 2156,4/23/2019 2156,Abraham Drive and Lincoln Swing,Arrest,2019-04-26
+19-000444,Theft,4/23/2019 2339,4/23/2019 2000,4/23/2019 2320,University Village Laundry Mat,Report Initiated,2019-04-26
+19-000446,Driving Violation,4/24/2019 1125,4/24/2019 1125,4/24/2019 1125,Beach Avenue and Lincoln Way,Cited,2019-04-26
+19-000448,Domestic Assault,4/24/2019 1922,4/24/2019 ,4/24/2019 1922,4225 Lincoln Swing,Arrest,2019-04-26
+19-000449,OWI,4/24/2019 2307,4/24/2019 2307,4/24/2019 2307,16th Street and Ridgewood Avenue,Arrest,2019-04-26
+19-000450,OWI,4/25/2019 0225,4/25/2019 0225,4/25/2019 0225,Mortensen Road and Poe Avenue,Arrest,2019-04-26
+19-000451,Theft,4/25/2019 1612,4/17/2019 1930,4/18/2019 ,Black Engineering Building,Report Initiated,2019-04-26
+19-000452,Harassment,4/25/2019 1542, , ,Maple Willow Larch Commons,Report Initiated,2019-04-26
+19-000453,Public Intoxication,4/25/2019 1805,4/25/2019 1805,4/25/2019 1805,Lot 29,Arrest,2019-04-26
+19-000454,Theft,4/25/2019 1814,4/19/2019 , ,Lot 6,Report Initiated,2019-04-26
+19-000455,Public Intoxication,4/25/2019 1944,4/25/2019 1944,4/25/2019 1944,Lot 29,Arrest,2019-04-26
+19-000458,Harassment,4/26/2019 0021,4/25/2019 2133,4/25/2019 2300,Friley Hall,Report Initiated,2019-04-26
+19-000459,OWI,4/26/2019 0119,4/26/2019 0119,4/26/2019 0119,Lincoln Way and Wilmoth Avenue,Arrest,2019-04-26
 19-0005,Stalking,3/27/2019,,3/27/2019,Various Locations,Assigned - Other,2019-04-01
 19-0005,Stalking,3/27/2019 , ,3/27/2019 ,Various Locations,Assigned - Other,2019-04-26
 19-0006,Stalking,4/5/2019,,,Wilson Hall,Assigned - Other,2019-04-15
 19-0006,Stalking,4/5/2019 , , ,Wilson Hall,Assigned - Other,2019-04-26
 19-0007,Harassment,4/18/2019,,4/13/2019,1022 Welch Avenue,Assigned - Other,2019-04-22
 19-0007,Harassment,4/18/2019 , ,4/13/2019 ,1022 Welch Avenue,Assigned - Other,2019-04-26
+19-0008,Sexual Assault,4/19/2019 , , ,Unknown,Assigned - Other,2019-04-26
 19-001,Harassment,01/22/19 0000,01/18/19 0000,01/18/19 0000,Memorial Union,Assigned - Other,2019-03-19
 19-001,Harassment,1/22/2019,1/18/2019,1/18/2019,Memorial Union,Assigned - Other,2019-03-21
 19-002,Harassment,02/01/19 0000,01/30/19 0000,02/01/19 0000,Various Locations,Assigned - Other,2019-03-19
