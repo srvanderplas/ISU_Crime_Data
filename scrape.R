@@ -63,3 +63,5 @@ download.file(new_log, destfile = paste0(lubridate::today(), ".pdf"), mode = 'wb
 #
 # system("git commit -a -m 'Automatic Update'")
 # system("git push")
+
+httr::GET("https://hc-ping.com/937c2355-d57a-462f-9605-f11cd9f1afa2")
