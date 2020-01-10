@@ -7,7 +7,7 @@ library(lubridate)
 
 
 # Get wd of script
-if (Sys.info()[['nodename']] == 'bigfoot') {
+if (Sys.info()[['nodename']] == 'stats-bigfoot') {
   setwd("/home/srvander/Projects/Misc/ISU_Crime_Data")
 } else {
   setwd(here::here())
