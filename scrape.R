@@ -22,7 +22,20 @@ new_log <- read_html("https://www.police.iastate.edu/crime-log/") %>%
 # new_logs <- sprintf("http://www.police.iastate.edu/wp-content/uploads/%d/%d/%d-Crime-Log-%d_%d_%d.pdf",
 #                     year(dates), month(dates), year(dates), month(dates), day(dates), year(dates) %% 2000)
 # download.file(new_logs, destfile = paste0(dates, ".pdf"), mode = 'wb')
-download.file(new_log, destfile = paste0(lubridate::today(), ".pdf"), mode = 'wb')
+
+file_hist <- list.files("*.pdf")
+try(download.file(new_log, destfile = paste0(lubridate::today(), ".pdf"), mode = 'wb'))
+file_hist2 <- list.files("*.pdf")
+new_files <- setdiff(file_hist, file_hist2)
+
+if (length(new_files) > 0) {
+  system("git add *.pdf")
+  system("git commit -a -m 'Automatic Update'")
+  system("git push")
+
+  httr::GET("https://hc-ping.com/937c2355-d57a-462f-9605-f11cd9f1afa2")
+}
+
 #
 # library(tabulizer)
 #
@@ -61,8 +74,3 @@ download.file(new_log, destfile = paste0(lubridate::today(), ".pdf"), mode = 'wb
 #   write_csv(new_data, "isu_crime_data.csv", append = F)
 # }
 #
-system("git add *.pdf")
-system("git commit -a -m 'Automatic Update'")
-system("git push")
-
-httr::GET("https://hc-ping.com/937c2355-d57a-462f-9605-f11cd9f1afa2")
